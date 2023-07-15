@@ -20,4 +20,4 @@ Step-7: Now take the output of TF-IDF are BOW to X and dependent variable to y a
 
 Step-8: Perform All the Machine Learning models on the Train dataset and pick top one model by the performace report of the models.
 
-# A basic NLP Project that to classify the Mails are SPAM are Nonspam using the message body in the mail.
+A basic NLP Project that to classify the Mails are SPAM are Nonspam using the message body in the mail.
