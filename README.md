@@ -1,6 +1,6 @@
 # SpamClassifier
 
-# We Have used NLP to train the Machine Learning model with the message text.
+We Have used NLP to train the Machine Learning model with the message text.
 
 # Steps To perform NLP
 
